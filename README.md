@@ -10,7 +10,9 @@ A new Onboarding Flutter UI/UX design.
 ![Screenshot_20200204-225809](https://user-images.githubusercontent.com/37204706/73770768-0194ed00-47a3-11ea-99f7-f69ec23ee829.jpg)
 
 
+#### UI/UX
 
+![ezgif com-resize](https://user-images.githubusercontent.com/37204706/73778877-e2ea2280-47b1-11ea-9445-88000fee04e0.gif)
 
 
 ## Getting Started
