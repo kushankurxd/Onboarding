@@ -1,6 +1,6 @@
 # flutter_onboard
 
-A new Flutter application.
+A new Onboarding Flutter UI/UX design.
 
 ## Getting Started
 
